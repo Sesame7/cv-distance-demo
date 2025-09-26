@@ -1,4 +1,3 @@
-""""
 # CV-Distance-DEMO
 
 A minimal demo for real-time distance estimation using a **single camera** and **OpenCV ArUco markers**.
@@ -43,4 +42,3 @@ python distance_demo.py
 ```
 
 If the marker is detected successfully, you will see real-time overlays with FPS, overall distance, and per-corner coordinates.
-""""
